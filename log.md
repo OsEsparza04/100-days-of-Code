@@ -8,3 +8,11 @@ Day 0  01/03/2018
  Thanks Alexander Kallaway to foster confidence and commitment. 
  
  Setbacks:No setbacks, just learning "new" concepts! 
+
+
+Day 1  01/04/2018
+ Today´s progress: I downloaded an app, the Solo Learn App to start learning about CSS and HTML5. I still reviewing the concepts at the FreeCode Camp. I´m following the map to become a front end developer @!_!@
+ 
+ Thoughts: I was wondering how I can start coding, which lenguage should I learn first? 
+ 
+ Setbacks:No setbacks, just learning "new" concepts! 
