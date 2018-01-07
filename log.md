@@ -24,3 +24,11 @@ Today´s progress: I´ve started a tribute page on CodePen, as part of the learn
  Thoughts: To code it´s just to do it. On the run you´ll find what you need.
  
  Setbacks: Time, house chores and else.! 
+
+Day 3  01/06/2018
+
+ Today´s progress: I´ve finished a tribute page at CodePen.com @!_!@
+ 
+ Thoughts: I was feeling axious about not getting enought time to finish this littel project. Many things to do. 
+ 
+ Setbacks: working with images. I need to practice more of this. 
