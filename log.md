@@ -30,5 +30,13 @@ Day 3  01/06/2018
  Today´s progress: I´ve finished a tribute page at CodePen.com @!_!@
  
  Thoughts: I was feeling axious about not getting enought time to finish this littel project. Many things to do. 
- 
+
  Setbacks: working with images. I need to practice more of this. 
+ 
+Day 4  01/07/2018
+ 
+  Today´s progress: I started working on my porftolio project and at the same time figuring out how to apply bootstrap, html and Css together @!_!@
+ 
+ Thoughts: I do not know how to start a portfolio page. I do not have any idea of how to begin...I had an idea but It think that will take a lot of time an I little bit more knowledge on JQuery. 
+
+ Setbacks: Time...since it is sunday, I have to get up early to go to work. 
