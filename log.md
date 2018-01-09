@@ -40,3 +40,13 @@ Day 4  01/07/2018
  Thoughts: I do not know how to start a portfolio page. I do not have any idea of how to begin...I had an idea but It think that will take a lot of time an I little bit more knowledge on JQuery. 
 
  Setbacks: Time...since it is sunday, I have to get up early to go to work. 
+ 
+ 
+Day 5 01/08/2018
+ 
+  Today´s progress: Portfolio design done! @!_!@
+ 
+ Thoughts: I was working on how to arrange forms. How to locate it in the very center of he page. I tried to put the button besides the search bar, but I couldn´t.
+
+ Setbacks: Time...since I have to work tomorrow early!! 
+ 
