@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Raleway">
+    <link rel="stylesheet"  href=" https://fonts.googleapis.com/css?family=Emboss&effect=emboss">
+
+   
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <title> Essential Oils</title>
+</head>
+
+<style>
+    #section1 {
+        background-image: url(https://productimages.brambleberry.com/Fragrance%20Oil%20Photos/ES62Lavender4042.jpg);
+        height: 500px;
+        border: 2px solid white;
+    }
+
+    #section2 {
+        background-image: url(https://www.calmer-you.com/wp-content/uploads/2016/01/jasmine.jpg);
+        height: 500px;
+        padding: 20px;
+        border: 2px solid white;
+    }
+
+
+    #section3 {
+        background-image: url(https://cdn.shopify.com/s/files/1/0252/4489/products/lavender_1400x.png?v=1504069083);
+        height: 500px;
+        border: 2px solid white;
+    }
+
+    #section4 {
+        background-image: url(http://d3nslrukb9lhwg.cloudfront.net/wp-content/uploads/sites/6/2017/07/10-Rose-or-Jasmine.jpg);
+        height: 500px;
+        border: 2px solid white;
+    }
+
+    #section5 {
+        background-color:lavenderblush;
+        height: 200px;
+        padding:20px;   
+    }
+
+    p.essential{
+        color: #49274A;
+        font-size: 100px;
+        font-family: Raleway, serif; 
+        font-weight:bolder; 
+        font-effect-emboss: emboss; 
+    }
+
+
+</style>
+
+<body>
+     
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-4" id="section1"> </div>
+                <div class="col-lg-8" id="section2"> </div>
+        </div>
+        </div>
+
+   
+    <div class=" text-center" id="section5">
+        <p class="essential"> ESSENTIAL OILS </p>
+    </div>
+
+
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-3" id="section3"> </div>
+            <div class="col-lg-9" id="section4"> </div>
+        </div>
+        </div>
+
+
+
+
+
+
+
+</body>
+</html>
