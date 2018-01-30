@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+    <link rel="stylesheet" href=" https://fonts.googleapis.com/css?family=Emboss&effect=emboss">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <title> Happines</title>
+
+    <style>
+        body {
+            border: .32em solid red;
+        }
+        
+        p,
+        h1 {
+            font-family: 'Roboto', sans-serif;
+        }
+        
+        #p1 {
+            text-align: center;
+            font-size: 100px;
+            width: 100%;
+            margin: -10px;
+            border: 0px;
+            font-weight: bold;
+            color: black;
+        }
+        
+        #p2 {
+            text-align: center;
+            font-size: 50px;
+            width: 100%;
+            padding: 0px;
+            margin: 0px;
+            border: 0px;
+            color: black;
+        }
+        
+        h1 {
+            text-align: center;
+            font-size: 225px;
+            color: red;
+            margin: -50px;
+            border: 0px;
+        }
+        
+        .container {
+            position: relative;
+            margin-left: auto;
+            margin-right: auto;
+            display: block;
+        }
+        /* Experimental 
+       #firstrow {
+            float: left;
+            height: 200px;
+            width: 200px;
+            background-color: yellow;
+            border-radius: 100px;
+            border: 2px solid red;
+            display: inline-block;
+            align-items: center;
+            margin: 3.0em;
+        }
+         */
+        
+        #divider {
+            background-color: red;
+            height: 0.25em;
+            width: 100%;
+        }
+        
+        img {
+            width: 200px;
+            height: 200px;
+            border-radius: 100px;
+            float: left;
+            height: 200px;
+            width: 200px;
+            background-color: yellow;
+            border-radius: 100px;
+            border: none;
+            display: inline-block;
+            align-items: center;
+            margin: 3.0em;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+
+
+<body>
+
+    <div class="container">
+        <div> <img src="https://i.pinimg.com/564x/f2/12/f5/f212f502728b63af0e3a0f8a22b9d7c4--smiling-faces-happy-faces.jpg"> </div>
+        <div> <img src="https://i.pinimg.com/736x/a0/b6/e9/a0b6e93636e258d0cc7c3b405af19c51--happy-happy-happy-pure-joy.jpg"> </div>
+        <div> <img src="https://i.pinimg.com/originals/29/9f/7c/299f7ce293883764b36a4a0ce1f6ed9f.jpg"></div>
+        <div> <img src="https://i.pinimg.com/736x/16/39/af/1639af799c717cd8fd73e18358b15f13--children-laughing-kids-fun.jpg"></div>
+    </div>
+    <div id="divider"> </div>
+
+
+    <p id="p1"> The Secret of</p>
+    <h1> HAPPINESS</h1>
+    <p id="p2">How to Find Joy and Live Your Best Life</p>
+
+
+    <div id="divider"> </div>
+
+    <div class="container">
+        <div><img src="http://www.casadeibambini.com.hk/images/page/_0002_children-happy.jpg"> </div>
+        <div> <img src="https://i.pinimg.com/736x/39/3e/b2/393eb2a1494e207a8509a73f6c4f8d8f--maputo-mozambique.jpg"></div>
+        <div> <img src="https://i.pinimg.com/736x/c7/65/f4/c765f45d7bac5220cfde335bfe2ae837--lovely-smile-a-smile.jpg"></div>
+        <div> <img src="http://motherscircle.net/wp-content/uploads/2012/12/smiling-woman-in-glasses.jpg"> </div>
+        <div> <img src="https://i.pinimg.com/originals/6f/7c/0b/6f7c0b2268068584b2fa0977b672c581.jpg"> </div>
+        <div> <img src="https://pbs.twimg.com/media/B5jsryVCcAAi5HM.jpg"></div>
+        <div> <img src="http://gersh.com/comedy/wp-content/uploads/2017/04/Wyatt-Cenac-thumb-500x500.jpg"></div>
+        <div><img src="https://i.pinimg.com/originals/12/c3/8e/12c38e9ccb03faa968fe8474aa42e03a.jpg"> </div>
+    </div>
+
+
+
+
+</body>
+
+</html>
